@@ -12,7 +12,6 @@ smishing.
 4. What gaps exist in current smishing defenses, and what interdisciplinary strategies are needed to address them?
 
 Upon my research, I focused on 22 different academic sources which varied from around the world. Smishing isn't going away in the United States due to many issues, 
-including lack of governemnt support, lack of security education and training, lack of human centered computing designs, a lack of understanding of the smishing topic, 
-and a lack of interdisciplinary research. Smishing is not just a technical issue, it's primary weapon is using human psychology. 
+including lack of governemnt support, lack of security education and training, lack of human centered computing designs, a lack of understanding of the smishing topic, and a lack of interdisciplinary research. Smishing is not just a technical issue, it's primary weapon is using human psychology. 
 
-Please visit "Working_Draft.docx" for an in depth explanation of my findings. 
+Please visit "Working_Draft.pdf" for an in depth explanation of my findings. 
