@@ -1,4 +1,4 @@
-This is currently a working project where my working draft is currently being written with the goal of getting it published. I have currently presented this work at UNC Charlotte's Undergraduate Research Conference (URC) in person and online ([https://youtu.be/bQMVeFH3aVY](url))
+This is currently a working project where my working draft is currently being written with the goal of getting it published. I have currently presented this work at UNC Charlotte's Undergraduate Research Conference (URC) in person and online (https://youtu.be/bQMVeFH3aVY)
 
 From December 2025 - May 2026, I worked as an Undergradute Researcher at UNC Charlotte under the supervision of Dr. Cori Faklaris where I was a part of the Security 
 Privacy and Experiences (SPEX) Research Group and the Human Centered Computing Research Group (HCCRG). My project was to conduct an independent and systematic literature
